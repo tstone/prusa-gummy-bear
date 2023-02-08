@@ -9,7 +9,7 @@ Config and references for my heavily modified Prusa MINI+
 ## Hardware
   - Mainboard: BTT Manta M5P
   - PI: BTT CB1
-  - Extruder: Sherpa Mini
+  - Extruder: Sherpa Mini (direct drive)
   - Hotend: Revo Voron
   - Part Cooling: Dual 4010 blowers
   - Probe: SuperPINDA
