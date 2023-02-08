@@ -1,4 +1,4 @@
-# prusa-gummy-bear
+# Prusa MINI "Gummy Bear"
 Config and references for my heavily modified Prusa MINI+
 
 ## Colors
