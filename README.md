@@ -23,6 +23,7 @@ Config and references for my heavily modified Prusa MINI+
   - Modified smol mantis: https://github.com/sporkus/smol_mantis
   - Nevermore Micro V4: https://github.com/nevermore3d/Nevermore_Micro/tree/master/V4
   - Right Angle Cable Guide: https://www.printables.com/model/203063-mini-heatbed-cable-guide/related
+  - Disco on a Stick x6
  
 ## Enclosure
   - Voron 250mm Frame
