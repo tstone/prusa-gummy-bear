@@ -21,9 +21,11 @@ Config and references for my heavily modified Prusa MINI+
 ## Mods
   - Prusa MINI Bear: https://www.printables.com/model/37939-prusa-mini-mk3s-bear-ultra-upgraded
   - Modified smol mantis: https://github.com/sporkus/smol_mantis
-  - Nevermore Micro V4: https://github.com/nevermore3d/Nevermore_Micro/tree/master/V4
   - Right Angle Cable Guide: https://www.printables.com/model/203063-mini-heatbed-cable-guide/related
   - Disco on a Stick x6
+ 
+## TBD
+  - Nevermore Micro V4: https://github.com/nevermore3d/Nevermore_Micro/tree/master/V4
  
 ## Enclosure
   - Voron 250mm Frame
