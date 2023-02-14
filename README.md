@@ -23,6 +23,7 @@ Config and references for my heavily modified Prusa MINI+
   - Modified smol mantis: https://github.com/sporkus/smol_mantis
   - Right Angle Cable Guide: https://www.printables.com/model/203063-mini-heatbed-cable-guide/related
   - Disco on a Stick x6
+  - Klipper twist compensation: https://github.com/koonweee/klipper/blob/jt/x-twist-compensation-simple/docs/X_Twist_Compensation.md
  
 ## TBD
   - Nevermore Micro V4: https://github.com/nevermore3d/Nevermore_Micro/tree/master/V4
